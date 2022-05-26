@@ -1,5 +1,4 @@
-(https://awesome-github-stats.azurewebsites.net/user-stats/MadTheViking?cardType=level&theme=jolly)](https://git.io/awesome-stats-card)
-  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadTheViking)](https://github.com/anuraghazra/github-readme-stats)
 <div align='center'>
 
 ![it's me](readme.gif)
