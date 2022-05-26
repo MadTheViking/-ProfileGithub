@@ -2,5 +2,7 @@
 </div>
 
 <div align='center'>
-(readme.gif)
+
+![it's me](readme.gif)
+
 </div>
